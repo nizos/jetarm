@@ -2,7 +2,7 @@
 
 ## Day 1
 
-Getting started course & image classification.
+Started the project and implemented image classification for the arm grab functionalities. Implementing the initial code was easier than expected due to clear guides and available tutorials.
 
 ![Animated recording showing gesture recognition from camera feed using image classification](../assets/diary/classification-feed-grip.gif)
 
@@ -125,12 +125,16 @@ The figure below shows the robot being operated by the simplified design.
 
 ## Day 8
 
-Text.
+Worked on documentation and cleaned up the code.
 
 ## Day 9
 
-Text.
+Added the functionality that allows the robot to move forwards and backwards (left and right from the user's perspective). Made adjustments to the movement logic to improve overall sensitivity. Recorded the final demo.
+
+![Animated recording showing all functionalities](../assets/diary/jetarm-demo.gif)
+
+*Figure: Final demo showing all implemented functionalities.*
 
 ## Day 10
 
-Submission day.
+Finalized the documentation ahead of submission.
