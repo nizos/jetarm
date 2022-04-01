@@ -66,7 +66,7 @@ Make sure to collect enough images of both the thumb and index finger in differe
 
 ### Train the model
 
-Open the [tain.ipynb](./tain.ipynb) notebook and execute the cells until the training and evaluation tool is displayed. Set the number of epochs you want to perform and then click on the save button to save the model.
+Open the [tain.ipynb](./tain.ipynb) notebook and execute the cells until the training and evaluation tool is displayed. Set the number of epochs you want to perform and then start the training. Once done, click on the save button to save the model.
 
 By default is model is save to `model_resnet18.pth`. For my demo, a total of 20 epochs were performed.
 
